@@ -6,3 +6,9 @@ I used tkinter for the GUI
 I used MySQL database
 
 This app allows students details to be registered to the database, the details can then be manipulated through the GUI.
+
+
+Usage
+To run the App, you must install:
+  1. pymysql
+  2. tkinter
