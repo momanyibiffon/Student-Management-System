@@ -9,5 +9,6 @@ This app allows students details to be registered to the database, the details c
 
 
 To run the App, you must install:
-  1. pymysql
-  2. tkinter
+  1. Python
+  2. Tkinter
+  3. Pymysql
